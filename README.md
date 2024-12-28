@@ -10,7 +10,7 @@ ANOVA to test variances in satisfaction across distance and delay categories.
 Logistic regression to evaluate the impact of predictors like delivery delays and distance on customer satisfaction.
 ### Visualizations:
 Charts illustrating insights (e.g., odds ratios, satisfaction trends) for stakeholder presentations.
-##Repository Structure
+## Repository Structure
 
 /project-root  
 ├── ANOVA.ipynb            # Jupyter Notebook with all ANOVA analysis and outputs  
@@ -33,7 +33,7 @@ Charts illustrating insights (e.g., odds ratios, satisfaction trends) for stakeh
 ### Prerequisites
 Python 3.x
 Jupyter Notebook or a compatible IDE  
-###Installation
+### Installation
 1. Clone the repository:
 bash
 git clone https://github.com/jhanlo5wgu/D195
